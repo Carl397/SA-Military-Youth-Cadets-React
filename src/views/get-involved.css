@@ -1,0 +1,21 @@
+.get-involved-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.get-involved-container2 {
+  display: none;
+}
+ 
+.get-involved-container3 {
+  display: contents;
+}
+ 
+.get-involved-container4 {
+  display: none;
+}
+ 
+.get-involved-container5 {
+  display: contents;
+}

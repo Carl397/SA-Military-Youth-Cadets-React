@@ -1,0 +1,13 @@
+.impact-projects-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.impact-projects-container2 {
+  display: none;
+}
+ 
+.impact-projects-container3 {
+  display: contents;
+}
