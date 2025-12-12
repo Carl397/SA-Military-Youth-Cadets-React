@@ -60,7 +60,7 @@ const Navigation = (props) => {
               xmlns="http://www.w3.org/2000/svg"
               height="24"
               viewBox="0 0 24 24"
-              className="navigation-navigation-toggle-icon"
+              className="navigation-thq-navigation-toggle-icon-elm"
             >
               <path
                 d="M4 5h16M4 12h16M4 19h16"
@@ -98,7 +98,7 @@ const Navigation = (props) => {
                 xmlns="http://www.w3.org/2000/svg"
                 height="32"
                 viewBox="0 0 24 24"
-                className="navigation-navigation-mobile-close-icon"
+                className="navigation-thq-navigation-mobile-close-icon-elm"
               >
                 <path
                   d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1zm-5.5-3.5l-5 5m0-5l5 5"

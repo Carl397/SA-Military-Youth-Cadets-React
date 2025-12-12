@@ -11,7 +11,7 @@ const Footer = (props) => {
         <div className="footer-diagonal-accent"></div>
         <div className="footer-container">
           <div className="footer-social-hero">
-            <div className="footer-footer-brand-section footer-brand-section">
+            <div className="footer-thq-footer-brand-section-elm footer-brand-section">
               <div className="footer-logo-shield">
                 <svg
                   width="48"
@@ -42,7 +42,7 @@ const Footer = (props) => {
                 />
               </p>
             </div>
-            <div className="footer-footer-social-primary footer-social-primary">
+            <div className="footer-thq-footer-social-primary-elm footer-social-primary">
               <h3 className="footer-social-heading">Join Our Community</h3>
               <p className="section-content footer-social-description">
                 {' '}

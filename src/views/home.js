@@ -19,26 +19,26 @@ const Home = (props) => {
         />
       </Helmet>
       <Navigation></Navigation>
-      <div className="home-hero-section hero-section">
-        <div className="home-hero-background hero-background">
+      <div className="home-thq-hero-section-elm hero-section">
+        <div className="home-thq-hero-background-elm hero-background">
           <img
             alt="Ghanaian cadet group practicing military drills in school setting."
             src="/facebook%20post%20%20(2)-2000w.png"
-            className="home-hero-background-image hero-background-image"
+            className="home-thq-hero-background-image-elm hero-background-image"
           />
-          <div className="home-hero-overlay hero-overlay"></div>
+          <div className="home-thq-hero-overlay-elm hero-overlay"></div>
         </div>
-        <div className="home-hero-container hero-container">
-          <div className="hero-content home-hero-content">
+        <div className="home-thq-hero-container-elm hero-container">
+          <div className="hero-content home-thq-hero-content-elm">
             <div className="hero-badge">
               <span className="hero-badge-text">
                 Building Tomorrow&apos;s Leaders Today
               </span>
             </div>
-            <h1 className="home-hero-title hero-title">
+            <h1 className="home-thq-hero-title-elm hero-title home-hero-title">
               SA Milatry Youth Cadets
             </h1>
-            <p className="home-hero-subtitle hero-subtitle">
+            <p className="home-hero-subtitle hero-subtitle home-thq-hero-subtitle-elm">
               {' '}
               Empowering South African youth through honour, courage, and
               commitment. Join our community of 360+ cadets across 36 branches
@@ -49,8 +49,8 @@ const Home = (props) => {
                 }}
               />
             </p>
-            <div className="hero-values home-hero-values">
-              <div className="hero-value-item home-hero-value-item1">
+            <div className="hero-values home-thq-hero-values-elm">
+              <div className="hero-value-item home-thq-hero-value-item-elm1">
                 <div className="hero-value-icon">
                   <svg
                     width="24"
@@ -90,7 +90,7 @@ const Home = (props) => {
                 </div>
                 <span className="hero-value-label">Courage</span>
               </div>
-              <div className="hero-value-item home-hero-value-item3">
+              <div className="hero-value-item home-thq-hero-value-item-elm3">
                 <div className="hero-value-icon">
                   <svg
                     width="24"
@@ -116,7 +116,7 @@ const Home = (props) => {
           </div>
         </div>
       </div>
-      <div className="about-section home-about-section">
+      <div className="about-section home-thq-about-section-elm">
         <div className="about-container">
           <div className="about-header">
             <h2 className="section-title">Our Journey of Impact</h2>
@@ -373,7 +373,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image1 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm1 services-card-image"></div>
             </div>
             <div className="services-card">
               <div className="services-card-icon">
@@ -412,7 +412,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image2 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm2 services-card-image"></div>
             </div>
             <div className="services-card">
               <div className="services-card-icon">
@@ -451,7 +451,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image3 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm3 services-card-image"></div>
             </div>
             <div className="services-card">
               <div className="services-card-icon">
@@ -515,7 +515,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image4 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm4 services-card-image"></div>
             </div>
             <div className="services-card">
               <div className="services-card-icon">
@@ -554,7 +554,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image5 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm5 services-card-image"></div>
             </div>
             <div className="services-card">
               <div className="services-card-icon">
@@ -595,7 +595,7 @@ const Home = (props) => {
                   </div>
                 </a>
               </div>
-              <div className="home-services-card-image6 services-card-image"></div>
+              <div className="home-thq-services-card-image-elm6 services-card-image"></div>
             </div>
           </div>
         </div>
@@ -1160,7 +1160,7 @@ const Home = (props) => {
             src="https://play.teleporthq.io/static/svg/videoposter.svg"
             className="cta-background-video"
           ></video>
-          <div className="home-cta-overlay cta-overlay"></div>
+          <div className="home-thq-cta-overlay-elm cta-overlay"></div>
         </div>
         <div className="cta-container">
           <div className="cta-content">
